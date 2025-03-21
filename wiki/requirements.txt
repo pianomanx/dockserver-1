@@ -30,3 +30,4 @@ markdown==3.3.4
 pygments==2.10.0
 pymdown-extensions==9.0
 git+git://github.com/g-provost/lightgallery-markdown#egg=lightgallery
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
